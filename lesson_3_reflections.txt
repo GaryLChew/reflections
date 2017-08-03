@@ -7,3 +7,5 @@ Branches would be helpful for experimentation or for multiple people working tog
 Git's automatic merging is useful because it is fast and it's manual merging is useful because it prevents errors
 
 Online GitHub message #1 for pull testing
+
+Online Github message #2 for pull testing
