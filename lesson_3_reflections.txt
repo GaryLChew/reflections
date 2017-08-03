@@ -5,3 +5,5 @@ I can commit one file at a time using the staging area
 Branches would be helpful for experimentation or for multiple people working together on different features
 
 Git's automatic merging is useful because it is fast and it's manual merging is useful because it prevents errors
+
+Online GitHub message #1 for pull testing
