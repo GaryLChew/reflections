@@ -1,1 +1,5 @@
 When I initialize a repository, it creates a .git folder to track changes
+
+I can commit one file at a time using the staging area
+
+Branches would be helpful for experimentation or for multiple people working together on different features
