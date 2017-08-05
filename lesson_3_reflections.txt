@@ -16,3 +16,5 @@ You might not want to keep needing to solve merge conflicts
 
 A fork is like a clone hosted by Github. A clone is a copy of a repository.
 A branch is an alternate version of the master branch.
+
+It lets you see what changes other people have made offline.
