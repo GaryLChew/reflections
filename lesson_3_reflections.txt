@@ -18,3 +18,5 @@ A fork is like a clone hosted by Github. A clone is a copy of a repository.
 A branch is an alternate version of the master branch.
 
 It lets you see what changes other people have made offline.
+
+Without Git and GitHub, I would use Google Drive or learn SVN.
